@@ -22,6 +22,11 @@
  - Lien vers le support (diapos) présenté en conférence
  - Nombre de diapos du support : 19
  - Plan du support :
+ 1. Dynamique d'entreprise
+ 2. Vision et objectif commun
+ 3. Moi, moi et moi : progression individuelle
+ 4. Comment mesurer la dynamique d'équipe ?
+ 5. Quels sont les leviers activables ?
 
 ## Résumé
 Céline Gilet nous présente un indicateur de santé de projet : la dynamique d'équipe. Ne faisant pas partie des indicateurs calculables simplement à travers des chiffres, il reste mesurable et est important dans l'estimation de la santé du projet.
