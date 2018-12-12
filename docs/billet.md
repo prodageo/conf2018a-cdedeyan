@@ -16,7 +16,7 @@
    * Gestion de projet
    * Indicateur
    * Amélioration continue
- - URL de l'illustration : ![Photo by Annie Spratt on Unsplash](https://unsplash.com/photos/QckxruozjRg)
+ - URL de l'illustration : ![Photo de la première slide de la conférence](/IMG_20181122_141042899.jpg)
 
 ## Support
  - Lien vers le support (diapos) présenté en conférence
