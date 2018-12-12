@@ -16,7 +16,7 @@
    * Gestion de projet
    * Indicateur
    * Amélioration continue
- - URL de l'illustration : (/IMG_20181122_141042899.jpg)
+ - URL de l'illustration : ![Image de la première slide de la présentation](https://raw.githubusercontent.com/prodageo/conf2018a-cdedeyan/master/docs/IMG_20181122_141053110.jpg)
 
 ## Support
  - Lien vers le support (diapos) présenté en conférence
