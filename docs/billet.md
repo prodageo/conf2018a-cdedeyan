@@ -24,13 +24,13 @@
  - Plan du support :
 
 ## Résumé
-Céline Gilet nous présente un indicateur de santé de projet sous-coté: la dynamique d'équipe. Ne faisant pas partie des indicateurs calculables simplement à travers des chiffres, il reste mesurable et est important dans l'estimation de la santé du projet.
+Céline Gilet nous présente un indicateur de santé de projet : la dynamique d'équipe. Ne faisant pas partie des indicateurs calculables simplement à travers des chiffres, il reste mesurable et est important dans l'estimation de la santé du projet.
 
 La présentation commence par une définition de la dynamique d'équipe. La dynamique,  mouvement perpétuel évitant de s'enliser dans des habitudes. Et l'équipe, groupe d'individus menant à bien un objectif commun.
 
-C'est par la vision qu'à l'équipe de l'objectif qu'on commence à mesurer la dynamique d'équipe. Comment les membres voient la faisabilité de l'objectif? Ont ils le but en tête lorsqu'ils viennent travailler. Ce sont des points de vue qui ont un grand impact sur la motivation de chacun.
+C'est par la vision qu'à l'équipe de l'objectif qu'on commence à mesurer la dynamique d'équipe. Comment les membres voient la faisabilité de l'objectif ? Ont ils le but en tête lorsqu'ils viennent travailler ? Ces points de vue ont un grand impact sur la motivation.
 
-L'autre aspect ayant un grand impact sur la motivation est l'apport individuel du projet pour chaque membre. Souvent d'un point de vue de l'évolution des compétences. C'est un aspect à ne pas perdre de vue car un membre ne travaillant que sur ce qu'il connaît déjà risque de trouver ses tâches monotones.
+L'autre aspect impactant la motivation est l'apport individuel du projet pour chaque membre. Souvent d'un point de vue de l'évolution des compétences. C'est un aspect à ne pas perdre de vue car un membre ne travaillant que sur ce qu'il connaît déjà risque de trouver ses tâches monotones.
 
 Céline Gilet nous donne ensuite un ensemble d'exemples permettant de mesurer si la dynamique de l'équipe est bonne. Ce sont plus des indicateurs prévisionnels que rétrospectifs. 
 
