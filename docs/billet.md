@@ -42,4 +42,6 @@ Céline Gilet nous donne ensuite un ensemble d'exemples permettant de mesurer si
 Finalement il a été présenté quelques leviers activables permettant de redynamiser l'équipe comme la venue de nouveaux membres ou le renouvellement des espaces de travail.
 
 ## Architecture et facteur qualité
-Les connaissances apportées par cette conférence peuvent apporter une amélioration sur tous les facteurs de qualité. Je pense que l'un des facteurs les plus impacté est la fonctionnalité. Avoir un projet sain et des membres qui sont motivés va augmenter grandement la productivité. Par conséquent, prendre en compte la motivation individuelle de chacun peut les amener à être plus productifs. Il y aura donc plus de fonctionnalités mises en place sur le projet.
+Les connaissances apportées par cette conférence peuvent apporter une amélioration sur tous les facteurs de qualité. Je pense que l'un des facteurs les plus impacté est la fonctionnalité. Avoir un projet sain et des membres qui sont motivés va augmenter grandement la productivité. 
+
+Par exemple, comme expliqué lors de la conférence, prendre en compte la motivation individuelle de chacun va les amener à être plus productifs. Il y aura donc plus de fonctionnalités mises en place sur le projet.
